@@ -1,0 +1,12 @@
+{
+    "mean": {
+        "IT": 62000.0,
+        "Operations": 59500.0,
+        "Unknown": 60750.0
+    },
+    "count": {
+        "IT": 2,
+        "Operations": 2,
+        "Unknown": 1
+    }
+}
