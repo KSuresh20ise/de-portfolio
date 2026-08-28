@@ -1,9 +1,3 @@
-# Functions
-#==============
-# Add Policy
-# View All Policies
-# Search Policy
-
 # =======================
 # DATABASE (Dictionary)
 # =======================
