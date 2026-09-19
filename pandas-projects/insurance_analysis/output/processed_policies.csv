@@ -1,0 +1,9 @@
+policy_id,holder,policy_type,premium,claim_amount,status,state,created_date,risk,new_premium,tax,total_premium,claim_ratio
+POL001,Suresh Kumar,Health,4500,15000,Active,Karnataka,2024-01-15,Medium,4950.0,891.0,5841.0,3.33
+POL003,Priya Singh,Cyber,5600,22000,Active,Tamil Nadu,2024-03-10,High,6720.0,1209.6,7929.6,3.93
+POL004,Ankit Shah,Health,1800,5000,Active,Gujarat,2024-04-05,Low,1890.0,340.2,2230.2,2.78
+POL005,Sneha Reddy,Auto,3200,12000,Renewed,Telangana,2024-05-12,Medium,3520.0,633.6,4153.6,3.75
+POL006,Meera Nair,Property,4700,9500,Active,Kerala,2024-06-18,Low,4935.0,888.3,5823.3,2.02
+POL008,Pooja Sharma,Cyber,6200,31000,Active,Delhi,2024-08-30,High,7440.0,1339.2,8779.2,5.0
+POL009,Arjun Menon,Property,3800,7500,Renewed,Kerala,2024-09-14,Low,3990.0,718.2,4708.2,1.97
+POL010,Divya Iyer,Auto,5100,18000,Active,Tamil Nadu,2024-10-25,Medium,5610.0,1009.8,6619.8,3.53

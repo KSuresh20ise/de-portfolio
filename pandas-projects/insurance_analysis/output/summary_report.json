@@ -1,0 +1,12 @@
+{
+    "processed_at": "2026-09-19 16:26",
+    "total_policies": 8,
+    "total_premium": 34900.0,
+    "avg_premium": 4362.5,
+    "total_claims": 120000.0,
+    "risk_distribution": {
+        "High": 2,
+        "Medium": 3,
+        "Low": 3
+    }
+}
