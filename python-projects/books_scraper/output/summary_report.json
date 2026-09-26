@@ -1,0 +1,22 @@
+{
+    "scraped_at": "2026-09-27 01:17",
+    "pages_scraped": 5,
+    "total_books": 100,
+    "in_stock": 100,
+    "avg_price_gbp": 34.56,
+    "avg_price_inr": 3663.43,
+    "avg_rating": 2.9,
+    "recommended": 10,
+    "price_categories": {
+        "Affordable": 26,
+        "Medium": 34,
+        "Expensive": 40
+    },
+    "ratings": {
+        "1": 22,
+        "2": 19,
+        "3": 22,
+        "4": 18,
+        "5": 19
+    }
+}
