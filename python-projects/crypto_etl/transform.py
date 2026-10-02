@@ -90,6 +90,13 @@ def transform(data):
             )
         )
 
+        df["last_updated"] = pd.to_datetime(
+            df["last_updated"],
+            utc=True
+        ).dt.tz_localize(None)
+        
+        df["ingestion_timestamp"] = pd.Timestamp.now()
+
         logger.info(
             f"Transformation successful: {len(df)} records"
         )
